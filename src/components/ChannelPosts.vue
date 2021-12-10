@@ -18,14 +18,14 @@
           </p>
         </div>
       </div>
-      <div className="mt-1 hover:bg-gray-800 hover:bg-opacity-30 px-4 py-1">
+      <div class="mt-1 hover:bg-gray-800 hover:bg-opacity-30 px-4 py-1">
         <p class="text-gray-300 pl-14">
           Suspendisse sodales sem bibendum augue imperdiet vestibulum.
           In hac habitasse platea dictumst. Integer hendrerit luctus tincidunt.
           Integer quis suscipit magna. In leo leo, bibendum sed facilisis eu, bibendum blandit purus.
         </p>
       </div>
-      <div className="mt-1 hover:bg-gray-800 hover:bg-opacity-30 px-4 py-1">
+      <div class="mt-1 hover:bg-gray-800 hover:bg-opacity-30 px-4 py-1">
         <p class="text-gray-300 pl-14">
           In justo magna, mattis ut vulputate pulvinar, feugiat quis dolor.
           Sed in nisi ut justo pulvinar tempus non at lectus.
